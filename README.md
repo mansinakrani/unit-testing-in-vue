@@ -1,14 +1,21 @@
-# vue3-unit-testing-demo-1
+# Unit Testing Vue Components
+## Vue 3 Composition API + Pinia + Vite + Vitest
 
-This template should help get you started developing with Vue 3 in Vite.
+## Unit Testing Tools
 
-## Recommended IDE Setup
+**Vitest:** Unit test framework
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+**Vue Test Utils:** Unit testing utility library
 
-## Customize configuration
+#### Unit test file naming convention :
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+```http
+  <ComponentName>.spec.js
+```
+
+## Demo
+
+Netlify: [vue-testing-demo](https://vue-unit-testing-demo-1.netlify.app/)
 
 ## Project Setup
 
